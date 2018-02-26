@@ -6,7 +6,7 @@ PREVIOUS V1.0 PROJECT can be found [here](https://github.com/mwherman2000/neo-pe
 ## What is NPC?
 
 * NEO Persistable Classes
-* Long name: NEO Persistable Class (NPC) Framework 1.0
+* Long name: NEO Persistable Class (NPC) Framework 2.0
 * Byline: An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development 
 
 ## What is NPCdApp 1.0?
