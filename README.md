@@ -1,7 +1,7 @@
-# neo-persistibleclasses
+# neo-persistableclasses
 NEO Persistable Classes V2.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development (CURRENT)
 
-V1.0 PROJECT can be found [here](https://github.com/mwherman2000/neo-persistibleclasses/edit/master/README.md) ([https://github.com/mwherman2000/neo-persistibleclasses/edit/master/README.md](https://github.com/mwherman2000/neo-persistibleclasses/edit/master/README.md)).
+PREVIOUS V1.0 PROJECT can be found [here](https://github.com/mwherman2000/neo-persistibleclasses/edit/master/README.md) ([https://github.com/mwherman2000/neo-persistibleclasses/edit/master/README.md](https://github.com/mwherman2000/neo-persistibleclasses/edit/master/README.md)). 
 
 ## What is NPC?
 
