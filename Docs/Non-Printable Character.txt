@@ -1,0 +1,7 @@
+Non-Printable Character
+
+https://en.wikipedia.org/wiki/Control_character
+
+In computing and telecommunication, a control character or non-printing character is a code point (a number) in a character set, that does not represent a written symbol. They are used as in-band signaling to cause effects other than the addition of a symbol to the text. All other characters are mainly printing, printable, or graphic characters, except perhaps for the "space" character (see ASCII printable characters).
+
+All entries in the ASCII table below code 32 (technically the C0 control code set) are of this kind, including CR and LF used to separate lines of text. The code 127 (DEL) is also a control character. Extended ASCII sets defined by ISO 8859 added the codes 128 through 159 as control characters, this was primarily done so that if the high bit was stripped it would not change a printing character to a C0 control code, but there have been some assignments here, in particular NEL. This second set is called the C1 set.
