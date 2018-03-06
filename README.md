@@ -112,3 +112,18 @@ Michael is also the founder of the first Canadian NEO Blockchain Meetup group (N
 * >Great slides and videos, Michael Herman. Thanks
 * >It is truly worth video, thanks and congrulations for the attention.
 * >Michael, it was a pleasure to check out the slides. Congrulations, you are a good professor. I will keep reading and trying to learn with your documentation.
+
+## Notes
+
+* NEO Persistable Class (NPC) Framework: Structured Storage Architecture
+   * Nested Storage Domains
+* NEO Persistable Class (NPC) Framework: Domain and Entity Model
+   * TODO
+* NEO Persistable Class (NPC) Framework: Automatic Class Generation
+   * NPC Compiler
+   * Model Classes
+   * Target Projects
+* NEO Persistable Class (NPC) Framework: Object-Oriented Programming Model
+   * C#.NPC Syntax
+   
+
