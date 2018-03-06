@@ -122,6 +122,8 @@ Michael is also the founder of the first Canadian NEO Blockchain Meetup group (N
    * Nested Storage Domains
 * NEO Persistable Class (NPC) Framework: Domain and Entity Model
    * TODO
+* NEO Persistable Class (NPC) Framework: NeoStorageKey Specificaton
+   * TODO
 * NEO Persistable Class (NPC) Framework: Automatic Class Generation
    * NPC Compiler
    * Model Classes
