@@ -118,17 +118,11 @@ Michael is also the founder of the first Canadian NEO Blockchain Meetup group (N
 
 ## Notes
 
-* NEO Persistable Class (NPC) Framework: Structured Storage Architecture
-   * Nested Storage Domains
-* NEO Persistable Class (NPC) Framework: Domain and Entity Model
-   * TODO
-* NEO Persistable Class (NPC) Framework: NeoStorageKey Specificaton
-   * TODO
-* NEO Persistable Class (NPC) Framework: Automatic Class Generation
-   * NPC Compiler
-   * Model Classes
-   * Target Projects
-* NEO Persistable Class (NPC) Framework: Object-Oriented Programming Model
-   * C#.NPC Syntax
+* NPC Domain and Entity Model
+* NPC Structured Storage Architecture (Nested Storage Domains)
+* NPC NeoStorageKey Specificaton
+* NPC Compiler
+* NPC Object-Oriented Programming Model
+* C#.NPC Programming Language
    
 
