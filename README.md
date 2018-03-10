@@ -1,6 +1,22 @@
 # neo-persistableclasses
 
-NEO Persistable Classes V2.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development (CURRENT)
+NEO Persistable Classes Platform 2.0 - An Efficient Object-Oriented Platform for C#.NEO Smart Contract Development
+
+As a [`neo-csharpcoe`](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) compliant platform, the `NPC-e-dApp` platform includes a full suite of tools and libraries (code), frameworks, how-to documentation, and best practices for full-stack e-dApp development using .NET/C#, C#.NEO, and the NEO Blockchain:
+
+| Component | Home Project |
+| --------- | ------------ |
+| NPC Framework | [neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses) |
+| NPC Entity and Domain Model | [neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses) |
+| NPC Structured Storage Architecture | [neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses) |
+| NPC NeoStorageKey Specificaton | [neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses) |
+| NPC Entity Programming Model | [neo-npcc](https://github.com/mwherman2000/neo-npcc) |
+| NPC C#.NPC Entity Programming Language | [neo-npcc](https://github.com/mwherman2000/neo-npcc) |
+| NPC C#.NPC Compiler (npcc) | [neo-npcc](https://github.com/mwherman2000/neo-npcc) |
+| NPC Source-level Execution Cost Profiler | merged into [neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools) |
+| NPC Integrated Entity Tracing | [neo-npcc](https://github.com/mwherman2000/neo-npcc) |
+| NPC Smart-formatting Event Log Views | merged into [neo-gui-developer](https://github.com/CityOfZion/neo-gui-developer) and [neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools) |
+| NPC JSON Entity Deserialization | [merged into neo-lex](https://github.com/CityOfZion/neo-lux/pull/9) |
 
 This independent, open source project is 100% community-supported by people like yourself through your contributions of time, energy, passion, promotion, and donations.  To learn more about contributing to this project or any of the `neo-csharpcoe` projects, click [here](https://github.com/mwherman2000/neo-csharpcoe/blob/master/CONTRIBUTE.md).
 
@@ -9,8 +25,16 @@ PREVIOUS V1.0 PROJECT can be found [here](https://github.com/mwherman2000/neo-pe
 ## What is NPC?
 
 * NEO Persistable Classes
-* Long name: NEO Persistable Class (NPC) Framework 2.0
+* Long name: NEO Persistable Class (NPC) Platform 2.0
 * Byline: An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development 
+
+The NPC-e-dApp platform includes a full suite of tools and libraries (code), frameworks, how-to documentation, and best practices for full-stack e-dApp development using .NET/C#, C#.NEO, and the NEO Blockchain.
+
+## What is NeoDraw?
+
+`NeoDraw` is multi-person shared whiteboard dApp that was built for the Microsoft-NEO dApp Competition #1 (closing date: March 10, 2018) to demonstrate and laucnh the NPC Platform 2.0.
+
+`NeoDraw` is advanced proof-of-concept distributed application (dApp) for the NEO Persistable Classes (NPC) Entity dApp (e-dApp) Platform running on the NEO Blockchain. 
 
 ## What is NPCdApp 1.0?
 
@@ -51,15 +75,15 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
     [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/qwteL1BiCjM/1.jpg)](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NeoPersistableClasses-Bluepaper%20v0.21-Recording.pdf) 
 
 
-## NEO Persistable Class (NPC) 1.0: Deep Dive (NEO Community Bluepaper)
+## NEO Persistable Class (NPC) Platform 2.0: Deep Dive (`neo-csharpcoe` Community Bluepaper)
 
-* Watch this video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://www.youtube.com/watch?v=qwteL1BiCjM) (90 minutes)
+* Watch this video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://www.youtube.com/watch?v=Nj4-m2o94VE) (90 minutes)
 
-   [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/qwteL1BiCjM/0.jpg)](https://www.youtube.com/watch?v=qwteL1BiCjM) 
+   [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/Nj4-m2o94VE/0.jpg)](https://www.youtube.com/watch?v=Nj4-m2o94VE) 
 
 * ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)):
 
-    [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/qwteL1BiCjM/1.jpg)](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NeoPersistableClasses-Bluepaper%20v0.21-Recording.pdf)
+    [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/Nj4-m2o94VE/1.jpg)](https://github.com/mwherman2000/neo-persistibleclasses/Docs/videos/NeoPersistableClasses-Bluepaper v2.22-Recording.pdf)
 
 ## Downloads
 
