@@ -36,6 +36,8 @@ The NPC-e-dApp platform includes a full suite of tools and libraries (code), fra
 
 `NeoDraw` is advanced proof-of-concept distributed application (dApp) for the NEO Persistable Classes (NPC) Entity dApp (e-dApp) Platform running on the NEO Blockchain. 
 
+More information on [NeoDraw](https://github.com/mwherman2000/neo-npcc/blob/master/Docs/neodraw.md) can be found [here](https://github.com/mwherman2000/neo-npcc/blob/master/Docs/neodraw.md).
+
 ## What is NPCdApp 1.0?
 
 NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #2 (closing date: February 24, 2018) to demonstrate NPC’s:
