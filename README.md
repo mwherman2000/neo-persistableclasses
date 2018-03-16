@@ -1,6 +1,6 @@
 # neo-persistableclasses
 
-NEO Persistable Classes (NPC) Platform 2.0 - An Efficient Entity-based Platform for enterprise application development using .NET/C#, C#.NEO and the NEO Blockchain
+NEO Persistable Classes (NPC) Platform 2.0 - An Efficient Entity-based Platform for enterprise distributed application development using .NET/C#, C#.NEO and the NEO Blockchain
 
 [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
@@ -14,7 +14,7 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 
 * NEO Persistable Classes 
 * Long name: NEO Persistable Class (NPC) Platform 2.0
-* Byline: An Efficient Entity-based Platform for enterprise application development using .NET/C#, C#.NEO and the NEO Blockchain
+* Byline: An Efficient Entity-based Platform for enterprise distributed application development using .NET/C#, C#.NEO and the NEO Blockchain
 
 ## What is NeoDraw and the NPC e-dApp Platform?
 
