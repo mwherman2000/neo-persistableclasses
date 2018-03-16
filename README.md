@@ -39,13 +39,13 @@ PREVIOUS V1.0 PROJECT can be found [here](https://github.com/mwherman2000/neo-pe
 
 ## NEO Persistable Class (NPC) Platform 2.0: Deep Dive (`neo-csharpcoe` Community Bluepaper)
 
-* Watch this video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://www.youtube.com/watch?v=Nj4-m2o94VE) (90 minutes)
+* Watch this video: [NEO Persistable Classes Platform 2.0: Deep Dive](https://www.youtube.com/watch?v=Nj4-m2o94VE) (90 minutes)
 
-   [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/Nj4-m2o94VE/0.jpg)](https://www.youtube.com/watch?v=Nj4-m2o94VE) 
+   [![NEO Persistable Classes Platform 2.0: Deep Dive](https://img.youtube.com/vi/Nj4-m2o94VE/0.jpg)](https://www.youtube.com/watch?v=Nj4-m2o94VE) 
 
 * ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistableclasses/Docs/videos/NeoPersistableClasses-Bluepaper%20v2.24-Recording.pdf)):
 
-    [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/Nj4-m2o94VE/1.jpg)](https://github.com/mwherman2000/neo-persistableclasses/Docs/videos/NeoPersistableClasses-Bluepaper%20v2.24-Recording.pdf)
+    [![NEO Persistable Classes Platform 2.0: Deep Dive](https://img.youtube.com/vi/Nj4-m2o94VE/1.jpg)](https://github.com/mwherman2000/neo-persistableclasses/Docs/videos/NeoPersistableClasses-Bluepaper%20v2.24-Recording.pdf)
 
     ## What is the subset of C# supported by the NEO compiler and NEO VM?
 
