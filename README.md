@@ -37,6 +37,25 @@ This independent, open source project is 100% community-supported by people like
 
 PREVIOUS V1.0 PROJECT can be found [here](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/README.md) ([https://github.com/mwherman2000/neo-persistibleclasses/blob/master/README.md](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/README.md)) (with the mispelled project name :-)). 
 
+## NEO Persistable Class (NPC) Platform 2.0: Deep Dive (`neo-csharpcoe` Community Bluepaper)
+
+* Watch this video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://www.youtube.com/watch?v=Nj4-m2o94VE) (90 minutes)
+
+   [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/Nj4-m2o94VE/0.jpg)](https://www.youtube.com/watch?v=Nj4-m2o94VE) 
+
+* ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistableclasses/Docs/videos/NeoPersistableClasses-Bluepaper%20v2.24-Recording.pdf)):
+
+    [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/Nj4-m2o94VE/1.jpg)](https://github.com/mwherman2000/neo-persistableclasses/Docs/videos/NeoPersistableClasses-Bluepaper%20v2.24-Recording.pdf)
+
+    ## What is the subset of C# supported by the NEO compiler and NEO VM?
+
+* Watch this 20-minute segment of the video: [NEO Persistable Classes Platform 2.0: Deep Dive](https://www.youtube.com/watch?v=qwteL1BiCjM&t=9m55s) (first 20 minutes starting at timecode [9:55](https://www.youtube.com/watch?v=Nj4-m2o94VE&t=9m55s))
+
+   [![NEO Persistable Classes Platform 2.0: Deep Dive](https://img.youtube.com/vi/qwteL1BiCjM/0.jpg)](https://www.youtube.com/watch?v=Nj4-m2o94VE&t=9m55s) 
+
+* ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v2.24-Recording.pdf)) (slides 5-22):
+
+    [![NEO Persistable Classes Platform 2.0: Deep Dive](https://img.youtube.com/vi/Nj4-m2o94VE/1.jpg)](https://github.com/mwherman2000/neo-persistableclasses/Docs/videos/NeoPersistableClasses-Bluepaper%20v2.24-Recording.pdf)
 
 ## What is NPCdApp 1.0?
 
@@ -65,27 +84,6 @@ NPCdApp 1.0 is a C#.NEO smart contract dApp built for the CoZ dApp Competition #
 * ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)):
 
     [![How to run NPCdApp 1.0 - CoZ dApp Competition #2 [update 4]](https://img.youtube.com/vi/nEgWFsM9vqg/1.jpg)](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)
-
-## What is the subset of C# supported by the NEO compiler and NEO VM?
-
-* Watch this 20-minute segment of the video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://www.youtube.com/watch?v=qwteL1BiCjM&t=4m30s) (first 20 minutes starting at timecode [4:30](https://www.youtube.com/watch?v=qwteL1BiCjM&t=4m30s))
-
-   [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/qwteL1BiCjM/0.jpg)](https://www.youtube.com/watch?v=qwteL1BiCjM&t=4m30s) 
-
-* ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NPCdApp-HowTo%20v0.4-Recording.pdf)) (slides 5-22):
-
-    [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/qwteL1BiCjM/1.jpg)](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/Docs/videos/NeoPersistableClasses-Bluepaper%20v0.21-Recording.pdf) 
-
-
-## NEO Persistable Class (NPC) Platform 2.0: Deep Dive (`neo-csharpcoe` Community Bluepaper)
-
-* Watch this video: [NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://www.youtube.com/watch?v=Nj4-m2o94VE) (90 minutes)
-
-   [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/Nj4-m2o94VE/0.jpg)](https://www.youtube.com/watch?v=Nj4-m2o94VE) 
-
-* ...or click on the presentation below but the video is better ([PDF](https://github.com/mwherman2000/neo-persistibleclasses/Docs/videos/NeoPersistableClasses-Bluepaper%20v2.22-Recording.pdf)):
-
-    [![NEO Persistable Classes 1.0: Deep Dive (Video 2 of 3) [Update 1]](https://img.youtube.com/vi/Nj4-m2o94VE/1.jpg)](https://github.com/mwherman2000/neo-persistibleclasses/Docs/videos/NeoPersistableClasses-Bluepaper%20v2.22-Recording.pdf)
 
 ## Downloads
 
